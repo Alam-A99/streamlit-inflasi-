@@ -59,4 +59,4 @@ fig.update_layout(title='Simulasi & Forecasting Inflasi Bulanan',
 
 st.plotly_chart(fig, use_container_width=True)
 
-st.caption("Model: ARIMA (1,1,1), Holt-Winters, Linear Regression. Data disimulasikan.")
+st.caption("Model: ARIMA (1,1,1), Holt-Winters, Linear Regression. Data yang digunakan Data percuma, kata orang Malaysia :) #Cheeersss.")
